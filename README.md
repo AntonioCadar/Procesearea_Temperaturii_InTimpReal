@@ -1,0 +1,1 @@
+# Procesearea_Temperaturii_InTimpReal
